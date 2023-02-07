@@ -5,14 +5,11 @@
 
 > ## Starter Project (Dev Environement)
 > ### Vite + React + Typescript + Eslint + Prettier : [igdev116/vite-react-ts-eslint-prettier](https://github.com/igdev116/vite-react-ts-eslint-prettier)
-> ### Bulletproof React: [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react)
 <br />
 
 > ## UI librairies
 > ### Chakra UI: [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui)
-> ### Chat UI: [alibaba/ChatUI](https://github.com/alibaba/ChatUI)
-> ### Next UI: [nextui-org/nextui](https://github.com/nextui-org/nextui)
-> ### Evergreen UI: [segmentio/evergreen](https://github.com/segmentio/evergreen)
+> ### Material UI
 > ### Tail Kit based on Tailwind: [Charlie85270/tail-kit](https://github.com/Charlie85270/tail-kit)
 <br />
 
@@ -20,9 +17,7 @@
 > ### Bootstrap High Quality Dashboard: [0wczar / airframe-react](https://github.com/0wczar/airframe-react)
 > ### Material UI Dashboard: [devias-io/material-kit-react](https://github.com/devias-io/material-kit-react)
 > ### 15+ ready to use Material UI Components: [proksh/atomize](https://github.com/proksh/atomize)
-> ### Material UI + Next.js Dashboard: [themeselection/materio-mui-react-nextjs-admin-template-free](https://github.com/themeselection/materio-mui-react-nextjs-admin-template-free)
 > ### Chakra-ui Dashboard: [horizon-ui/horizon-ui-chakra](https://github.com/horizon-ui/horizon-ui-chakra)
-> ### Soft UI Dashboard: [creativetimofficial/soft-ui-dashboard-react](https://github.com/creativetimofficial/soft-ui-dashboard-react)
 <br/>
 
 > ## Real Time Communication & Collaboration
