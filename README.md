@@ -11,7 +11,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Wise-Panthers/collo-app">
-    <img src="" alt="Logo" width="80" height="80">
+    <img src="logoAsset 2@0.75x.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">collo</h3>
