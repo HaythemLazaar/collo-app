@@ -10,7 +10,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Wise-Panthers/collo">
+  <a href="https://github.com/Wise-Panthers/react-app">
     <img src="" alt="Logo" width="80" height="80">
   </a>
 
@@ -19,19 +19,19 @@
   <p align="center">
     collo is a project management application that provides a single platform for remote teams to handle their tasks, collaborate in real-time, and communicate effectively.
     <br />
-    <a href="https://github.com/Wise-Panthers/collo"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Wise-Panthers/react-app"><strong>Explore the docs »</strong></a>
     <br />
   </p>
 </div>
 
 
-<a align="center">[![Product Name Screen Shot][product-screenshot]](https://collo.app)</a>
+<a align="center">[![Product Name Screen Shot][product-screenshot]](https://react-app.app)</a>
   <p align="center">
-    <a href="https://github.com/Wise-Panthers/collo">View Demo</a>
+    <a href="https://github.com/Wise-Panthers/react-app">View Demo</a>
     ·
-    <a href="https://github.com/Wise-Panthers/collo/issues">Report Bug</a>
+    <a href="https://github.com/Wise-Panthers/react-app/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Wise-Panthers/collo/issues">Request Feature</a>
+    <a href="https://github.com/Wise-Panthers/react-app/issues">Request Feature</a>
   </p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -129,7 +129,7 @@ This is an example of how to list things you need to use the software and how to
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
    ```sh
-   git clone https://github.com/Wise-Panthers/collo.git
+   git clone https://github.com/Wise-Panthers/react-app.git
    ```
 3. Install NPM packages
    ```sh
@@ -161,13 +161,23 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 - [ ] Feature 3
   - [ ] Nested Feature
 
-See the [open issues](https://github.com/Wise-Panthers/collo/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/Wise-Panthers/react-app/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 
-## Contributing
+## 🤝 Contributing
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+[![All Contributors](https://img.shields.io/github/all-contributors/Wise-Panthers/react-app?style=flat&colorB=555)](#contributors)
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -191,20 +201,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
-
-## 🤝 Contributors
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-[![All Contributors](https://img.shields.io/github/all-contributors/Wise-Panthers/react-app?style=flat&colorB=555)](#contributors)
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
 
@@ -253,25 +249,16 @@ Utilities
 <br />
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-
-
-
-
-
-
-
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=flat
-[contributors-url]: https://github.com/Wise-Panthers/collo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=flat
-[forks-url]: https://github.com/Wise-Panthers/collo/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=flat
-[stars-url]: https://github.com/Wise-Panthers/collo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=flat
-[issues-url]: https://github.com/Wise-Panthers/collo/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=flat
-[license-url]: https://github.com/Wise-Panthers/collo/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/Wise-Panthers/react-app.svg?style=flat
+[contributors-url]: https://github.com/Wise-Panthers/react-app/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Wise-Panthers/react-app.svg?style=flat
+[forks-url]: https://github.com/Wise-Panthers/react-app/network/members
+[stars-shield]: https://img.shields.io/github/stars/Wise-Panthers/react-app.svg?style=flat
+[stars-url]: https://github.com/Wise-Panthers/react-app/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Wise-Panthers/react-app.svg?style=flat
+[issues-url]: https://github.com/Wise-Panthers/react-app/issues
+[license-shield]: https://img.shields.io/github/license/Wise-Panthers/react-app.svg?style=flat
+[license-url]: https://github.com/Wise-Panthers/react-app/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/company/esprit-option-twin/
 [product-screenshot]: screenshot.jpg
