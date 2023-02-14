@@ -211,7 +211,7 @@ Courses
 
 Real Time Communication & Collaboration
 - A collaboration application built with Twilio SDK : [twilio / twilio-video-app-react](https://github.com/twilio/twilio-video-app-react)
--Virtual whiteboard: [excalidraw / excalidraw](https://github.com/excalidraw/excalidraw)
+- Virtual whiteboard: [excalidraw / excalidraw](https://github.com/excalidraw/excalidraw)
 <br />
 
 Authentication
