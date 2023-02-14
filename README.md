@@ -62,8 +62,6 @@
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
-<br/>
-<br/>
 <!-- ABOUT THE PROJECT -->
 
 ### 👾 Built With
