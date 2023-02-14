@@ -9,7 +9,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/colloHQ/collo-app">
-    <img src="logoAsset 2@0.75x.png" alt="Logo" >
+    <img src="Homepage.jpg" alt="Logo" >
   </a>
 
 <h3 align="center">collo</h3>
