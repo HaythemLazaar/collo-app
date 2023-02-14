@@ -8,7 +8,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Wise-Panthers/collo-app">
+  <a href="https://github.com/colloHQ/collo-app">
     <img src="logoAsset 2@0.75x.png" alt="Logo" >
   </a>
 
@@ -17,7 +17,7 @@
   <p align="center">
     collo is a project management application that provides a single platform for remote teams to handle their tasks, collaborate in real-time, and communicate effectively.
     <br />
-    <a href="https://github.com/Wise-Panthers/collo-app"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/colloHQ/collo-app"><strong>Explore the docs »</strong></a>
     <br />
   </p>
 </div>
@@ -25,11 +25,11 @@
 
 <a align="center">[![Product Name Screen Shot][product-screenshot]](https://collo-app.app)</a>
   <p align="center">
-    <a href="https://github.com/Wise-Panthers/collo-app">View Demo</a>
+    <a href="https://github.com/colloHQ/collo-app">View Demo</a>
     ·
-    <a href="https://github.com/Wise-Panthers/collo-app/issues">Report Bug</a>
+    <a href="https://github.com/colloHQ/collo-app/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Wise-Panthers/collo-app/issues">Request Feature</a>
+    <a href="https://github.com/colloHQ/collo-app/issues">Request Feature</a>
   </p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -125,7 +125,7 @@ This is an example of how to list things you need to use the software and how to
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
    ```sh
-   git clone https://github.com/Wise-Panthers/collo-app.git
+   git clone https://github.com/colloHQ/collo-app.git
    ```
 3. Install NPM packages
    ```sh
@@ -157,7 +157,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 - [ ] Feature 3
   - [ ] Nested Feature
 
-See the [open issues](https://github.com/Wise-Panthers/collo-app/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/colloHQ/collo-app/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -167,8 +167,8 @@ See the [open issues](https://github.com/Wise-Panthers/collo-app/issues) for a f
 
 Thanks go to these wonderful people
 <br />
-<a href="https://github.com/Wise-Panthers/collo-app/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Wise-Panthers/collo-app" />
+<a href="https://github.com/colloHQ/collo-app/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=colloHQ/collo-app" />
 </a>
 
 
@@ -242,16 +242,16 @@ Utilities
 <br />
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-[contributors-shield]: https://img.shields.io/github/contributors/Wise-Panthers/collo-app.svg?style=flat
-[contributors-url]: https://github.com/Wise-Panthers/collo-app/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Wise-Panthers/collo-app.svg?style=flat
-[forks-url]: https://github.com/Wise-Panthers/collo-app/network/members
-[stars-shield]: https://img.shields.io/github/stars/Wise-Panthers/collo-app.svg?style=flat
-[stars-url]: https://github.com/Wise-Panthers/collo-app/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Wise-Panthers/collo-app.svg?style=flat
-[issues-url]: https://github.com/Wise-Panthers/collo-app/issues
-[license-shield]: https://img.shields.io/github/license/Wise-Panthers/collo-app.svg?style=flat
-[license-url]: https://github.com/Wise-Panthers/collo-app/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/colloHQ/collo-app.svg?style=flat
+[contributors-url]: https://github.com/colloHQ/collo-app/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/colloHQ/collo-app.svg?style=flat
+[forks-url]: https://github.com/colloHQ/collo-app/network/members
+[stars-shield]: https://img.shields.io/github/stars/colloHQ/collo-app.svg?style=flat
+[stars-url]: https://github.com/colloHQ/collo-app/stargazers
+[issues-shield]: https://img.shields.io/github/issues/colloHQ/collo-app.svg?style=flat
+[issues-url]: https://github.com/colloHQ/collo-app/issues
+[license-shield]: https://img.shields.io/github/license/colloHQ/collo-app.svg?style=flat
+[license-url]: https://github.com/colloHQ/collo-app/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/company/esprit-option-twin/
 [product-screenshot]: screenshot.jpg
