@@ -9,7 +9,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/colloHQ/collo-app">
-    <img src="Homepage.jpg" alt="Logo" >
+    <img src="logoAsset 6@0.75x.png" alt="Logo" >
   </a>
 
 <h3 align="center">collo</h3>
@@ -254,7 +254,7 @@ Utilities
 [license-url]: https://github.com/colloHQ/collo-app/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/company/esprit-option-twin/
-[product-screenshot]: screenshot.jpg
+[product-screenshot]: Homepage.jpg
 [vite.js]: https://img.shields.io/badge/Vite.js-35495E?style=flat&logo=vite&logoColor=4FC08D
 [vite-url]: https://github.com/igdev116/vite-react-ts-eslint-prettier
 [react.js]: https://img.shields.io/badge/React-35495E?style=flat&logo=react&logoColor=4FC08D
