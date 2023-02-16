@@ -17,21 +17,15 @@ import {
   useColorModeValue,
 } from '@chakra-ui/react';
 // Custom components
-import { HSeparator } from '../../components/reusable/separator/Separator';
 import DefaultAuth from './Default';
 // Assets
-import illustration from './auth/auth.png';
+import illustration from './auth-assets/auth.png';
 import { FcGoogle } from 'react-icons/fc';
 import { MdOutlineRemoveRedEye } from 'react-icons/md';
 import { RiEyeCloseLine } from 'react-icons/ri';
 
 function SignIn() {
   // Chakra color mode
-  const textColor = useColorModeValue('navy.700', 'white');
-  const textColorSecondary = 'gray.400';
-  const textColorDetails = useColorModeValue('navy.700', 'secondaryGray.600');
-  const textColorBrand = useColorModeValue('brand.500', 'white');
-  const brandStars = useColorModeValue('brand.500', 'brand.400');
   const googleBg = useColorModeValue('secondaryGray.300', 'whiteAlpha.200');
   const googleText = useColorModeValue('navy.700', 'white');
   const googleHover = useColorModeValue({ bg: 'gray.200' }, { bg: 'whiteAlpha.300' });
@@ -39,7 +33,7 @@ function SignIn() {
   const [show, setShow] = React.useState(false);
   const handleClick = () => setShow(!show);
   return (
-    <DefaultAuth>
+    <DefaultAuth illustrationBackground={illustration}>
       <Flex
         maxW={{ base: '100%', md: 'max-content' }}
         w='100%'
@@ -48,16 +42,16 @@ function SignIn() {
         h='100%'
         alignItems='start'
         justifyContent='center'
-        mb={{ base: '30px', md: '60px' }}
+        mb={{ base: '20px', md: '60px' }}
         px={{ base: '25px', md: '0px' }}
-        mt={{ base: '40px', md: '14vh' }}
+        mt={{ base: '20px', md: '10vh' }}
         flexDirection='column'
       >
         <Box me='auto'>
-          <Heading color={textColor} fontSize='36px' mb='10px'>
-            Sign In
+          <Heading color='brand.50' fontSize='36px' mb='10px'>
+            Welcome Back
           </Heading>
-          <Text mb='36px' ms='4px' color={textColorSecondary} fontWeight='400' fontSize='md'>
+          <Text mb='36px' ms='4px' color='brand' fontWeight='400' fontSize='md'>
             Enter your email and password to sign in!
           </Text>
         </Box>
@@ -89,43 +83,35 @@ function SignIn() {
             <Icon as={FcGoogle} w='20px' h='20px' me='10px' />
             Sign in with Google
           </Button>
-          <Flex align='center' mb='25px'>
-            <HSeparator />
-            <Text color='gray.400' mx='14px'>
-              or
-            </Text>
-            <HSeparator />
-          </Flex>
+          <Flex align='center' mb='25px'></Flex>
           <FormControl>
             <FormLabel
               display='flex'
               ms='4px'
               fontSize='sm'
               fontWeight='500'
-              color={textColor}
+              color='brand.400'
               mb='8px'
             >
-              Email<Text color={brandStars}>*</Text>
+              Email<Text color='gray.50'>*</Text>
             </FormLabel>
             <Input
               isRequired={true}
-              variant='auth'
               fontSize='sm'
+              variant='auth'
+              mb='24px'
               ms={{ base: '0px', md: '0px' }}
               type='email'
-              placeholder='mail@simmmple.com'
-              mb='24px'
-              fontWeight='500'
-              size='lg'
+              placeholder='Your Email Address'
             />
-            <FormLabel ms='4px' fontSize='sm' fontWeight='500' color={textColor} display='flex'>
-              Password<Text color={brandStars}>*</Text>
+            <FormLabel ms='4px' fontSize='sm' fontWeight='500' color='brand.400' display='flex'>
+              Password<Text color='gray.50'>*</Text>
             </FormLabel>
             <InputGroup size='md'>
               <Input
                 isRequired={true}
                 fontSize='sm'
-                placeholder='Min. 8 characters'
+                placeholder='Your Password'
                 mb='24px'
                 size='lg'
                 type={show ? 'text' : 'password'}
@@ -133,7 +119,7 @@ function SignIn() {
               />
               <InputRightElement display='flex' alignItems='center' mt='4px'>
                 <Icon
-                  color={textColorSecondary}
+                  color='brand.50'
                   _hover={{ cursor: 'pointer' }}
                   as={show ? RiEyeCloseLine : MdOutlineRemoveRedEye}
                   onClick={handleClick}
@@ -142,25 +128,25 @@ function SignIn() {
             </InputGroup>
             <Flex justifyContent='space-between' align='center' mb='24px'>
               <FormControl display='flex' alignItems='center'>
-                <Checkbox id='remember-login' colorScheme='brandScheme' me='10px' />
+                <Checkbox id='remember-login' me='10px' />
                 <FormLabel
                   htmlFor='remember-login'
                   mb='0'
                   fontWeight='normal'
-                  color={textColor}
+                  color='brand.400'
                   fontSize='sm'
                 >
-                  Keep me logged in
+                  Remember me
                 </FormLabel>
               </FormControl>
               <NavLink to='/auth/forgot-password'>
-                <Text color={textColorBrand} fontSize='sm' w='124px' fontWeight='500'>
+                <Text color='brand.500' fontSize='sm' w='124px' fontWeight='400'>
                   Forgot password?
                 </Text>
               </NavLink>
             </Flex>
-            <Button fontSize='sm' variant='brand' fontWeight='500' w='100%' h='50' mb='24px'>
-              Sign In
+            <Button variant='solid' fontWeight='500'>
+              SIGN IN
             </Button>
           </FormControl>
           <Flex
@@ -170,11 +156,11 @@ function SignIn() {
             maxW='100%'
             mt='0px'
           >
-            <Text color={textColorDetails} fontWeight='400' fontSize='14px'>
+            <Text color='brand.500' fontWeight='400' fontSize='14px'>
               Not registered yet?
               <NavLink to='/auth/sign-up'>
-                <Text color={textColorBrand} as='span' ms='5px' fontWeight='500'>
-                  Create an Account
+                <Text color='brand.50' as='span' ms='5px' fontWeight='500'>
+                  Sign up
                 </Text>
               </NavLink>
             </Text>
