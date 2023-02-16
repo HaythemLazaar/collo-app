@@ -51,7 +51,7 @@ function SignIn() {
           <Heading color='brand.50' fontSize='36px' mb='10px'>
             Welcome Back
           </Heading>
-          <Text mb='36px' ms='4px' color='brand' fontWeight='400' fontSize='md'>
+          <Text mb='36px' ms='4px' color='brand.500' fontWeight='400' fontSize='md'>
             Enter your email and password to sign in!
           </Text>
         </Box>
